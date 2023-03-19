@@ -7,5 +7,6 @@ module Types
     # `posted_by` is automatically camelcased as `postedBy`
     # field can be nil, because we added users relationship later
     # "method" option remaps field to an attribute of Link model
+    field :votes, [Types::VoteType], null: false
   end
 end
