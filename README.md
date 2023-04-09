@@ -1,24 +1,13 @@
-# README
+# :chart_with_upwards_trend:GraphQL Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby GraphQL Tutorial that is self guided while following [this](https://www.howtographql.com/graphql-ruby/0-introduction/) link
 
-Things you may want to cover:
+## :computer:Technologies
+- Rails 6.0.6
+- Ruby 2.7.2
+- Gems::gem:
+  - sqlite3
+  - bcrypt
+  - graphql-rails
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
